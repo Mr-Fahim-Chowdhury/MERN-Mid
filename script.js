@@ -25,7 +25,7 @@ function buyProduct(price) {
     totalPriceDisplay.textContent = totalPrice.toFixed(2);
 }
 
-w
+
 buyBtn1.addEventListener('click', function() {
     buyProduct(100); // Product 1 price
 });
